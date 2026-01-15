@@ -4,7 +4,7 @@
    height="32"
    version="1"
    id="svg14"
-   sodipodi:docname="folder.svg"
+   sodipodi:docname="folder-documents.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    inkscape:export-filename="gtk-network.svg"
    inkscape:export-xdpi="384"
@@ -31,7 +31,7 @@
      inkscape:deskcolor="#505050" /><g
      id="g972"
      transform="translate(2.8234837,-0.82487911)"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      inkscape:label="Folder Drag Accept"><path
        style="display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
        d="m -0.74168,27.34862 v 1 c 0,0.83008 0.66796,1.49805 1.49805,1.49805 h 24.97265 c 0.83008,0 1.49805,-0.66797 1.49805,-1.49805 v -1 c 0,0.83008 -0.66797,1.49805 -1.49805,1.49805 H 0.75637 c -0.83009,0 -1.49805,-0.66797 -1.49805,-1.49805 z"
@@ -64,7 +64,7 @@
        style="display:inline;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;enable-background:new" /></g><g
      id="g6477"
      inkscape:label="Folder"
-     style="display:none"><path
+     style="display:inline"><path
        sodipodi:nodetypes="csccccccssc"
        inkscape:connector-curvature="0"
        id="path4811"
