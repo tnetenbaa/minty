@@ -13,6 +13,8 @@ This project is a fork of the Mint-Y icon theme, with custom folders and icons t
 
 ## To Do
 
+-New cursors
+
 -Mimetype overhaul
 
 -New trash icon
