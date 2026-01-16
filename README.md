@@ -12,8 +12,14 @@ This project is a fork of the Mint-Y icon theme, with custom folders and icons t
 **For System Install:** copy to /usr/share/icons
 
 ## To Do
-New app icons
-Install scripts
+
+-New cursors
+
+-Mimetype overhaul
+
+-New trash icon
+
+-Install scripts
 
 ## Credits
 
