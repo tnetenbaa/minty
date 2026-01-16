@@ -17,8 +17,6 @@ This project is a fork of the Mint-Y icon theme, with custom folders and icons t
 
 -Mimetype overhaul
 
--New trash icon
-
 -Install scripts
 
 ## Credits
