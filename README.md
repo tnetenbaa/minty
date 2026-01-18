@@ -7,15 +7,19 @@ This project is a fork of the Mint-Y icon theme, with custom folders and icons t
 
 ## Installation Instructions
 
-**For User Install:** copy to ~/.icons or ~/.local/share/icons
+**Automated**
 
-**For System Install:** copy to /usr/share/icons
+Two scripts are included, **user-install.sh** and **system-install.sh**. Running the appropriate script will install either to your user directory, or to the system directory. You may need to enable Execution permissions.
+
+**Manual**
+
+For user level, copy all folders to ~/.icons or ~/.local/share/icons
+
+For system level, copy to /usr/share/icons as root.
 
 ## To Do
 
 -Mimetype overhaul
-
--Install scripts
 
 ## Credits
 
