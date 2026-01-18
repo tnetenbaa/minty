@@ -13,8 +13,6 @@ This project is a fork of the Mint-Y icon theme, with custom folders and icons t
 
 ## To Do
 
--New cursors
-
 -Mimetype overhaul
 
 -Install scripts
@@ -33,7 +31,7 @@ The device icons originate from the **Paper icon theme**:
     Author: Sam Hewitt hewittsamuel@gmail.com
     License: Creative Commons Attribution-ShareAlike 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
 
-The mimetype icons originate from the **Elementary icon theme**:
+The mimetype icons and cursor theme originate from the **Elementary icon theme**:
 
     Link: https://github.com/elementary/icons
     Author: Members of the Elementary OS team (https://github.com/orgs/elementary/people)
