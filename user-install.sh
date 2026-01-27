@@ -35,6 +35,8 @@ cp -R Minty-Teal ~/.icons
 echo "Teal variant installed."
 cp -R Minty-Yaru ~/.icons
 echo "Yaru variant installed."
+cp -R Minty-Grey-Dark ~/.icons
+echo "Dark Grey variant installed."
 
 
 read -n 1 -r -s -p $'Install complete, press any key to close this window...\n'
